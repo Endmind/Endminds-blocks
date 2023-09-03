@@ -2,7 +2,7 @@
 In russian
 
 --------------------------
-Импортируйте Panda3D - pip install panda3d и PyQt5 - pip install pyqt5
+Импортируйте Panda3D - pip install panda3d, pygame - pip install pygame и PyQt5 - pip install pyqt5
 --------------------------
 
 
